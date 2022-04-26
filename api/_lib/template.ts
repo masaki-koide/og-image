@@ -71,13 +71,13 @@ function getCss(theme: string, fontSize: string) {
     .logo {
         margin: 0 8px 0 0;
         border-radius: 50%;
-        width: 48px;
-        height: 48px;
+        width: 72px;
+        height: 72px;
     }
 
     .author {
         font-family: 'Noto Sans JP', sans-serif;
-        font-size: 32px;
+        font-size: 48px;
         font-style: normal;
         font-weight: bold;
         color: gray;
